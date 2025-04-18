@@ -22,7 +22,7 @@
 
 ### 1. 克隆代码
 ```bash
-git clone https://github.com/yourusername/iot-demo-docker.git
+git clone https://github.com/Alele496/iot-platform-demo.git
 cd iot-demo-docker
 ```
 
@@ -86,7 +86,7 @@ This is a simple IoT cloud platform demo. It collects temperature and humidity d
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/iot-demo-docker.git
+git clone https://github.com/Alele496/iot-platform-demo.git
 cd iot-demo-docker
 ```
 
