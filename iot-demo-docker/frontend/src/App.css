@@ -1,0 +1,49 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #1890ff;
+  margin-bottom: 30px;
+}
+
+.ant-card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s;
+}
+
+.ant-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.ant-statistic-title {
+  font-size: 16px;
+  color: #666;
+}
+
+.ant-statistic-content {
+  font-size: 24px;
+  color: #1890ff;
+}
+
+.connected {
+  color: #52c41a;
+  font-weight: bold;
+}
+
+.disconnected {
+  color: #ff4d4f;
+  font-weight: bold;
+}
+
+.ant-card-head-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ant-alert {
+  margin-bottom: 20px;
+} 

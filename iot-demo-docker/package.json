@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.2",
+    "vite": "^6.2.5"
+  }
+}
