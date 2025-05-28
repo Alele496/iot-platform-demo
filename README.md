@@ -123,7 +123,3 @@ Visit: http://localhost:3000
 
 ---
 
-## Notes
-- `.env`, `backend/config.py` and other sensitive files are ignored by `.gitignore`. Do not upload them.
-- Only upload `.env.example`, `config.example.py` as templates.
-- For production, enhance security by yourself.
