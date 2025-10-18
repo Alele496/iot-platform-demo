@@ -8,6 +8,8 @@
 
 本项目为一个简化版的物联网云平台示例，演示了如何通过 ESP32 采集 DHT11 温湿度数据，经 MQTT 传输到后端，存储于 TDengine 数据库，并通过 Flask-SocketIO 实时推送到前端 Vue 可视化界面。
 
+<img src="images/display1.png" alt="示例展示" width="600" />
+
 ### 技术栈
 - 硬件：ESP32 + DHT11
 - 通信：MQTT（EMQX）
@@ -71,6 +73,8 @@ docker-compose up -d
 ## Project Overview
 
 This is a simple IoT cloud platform demo. It collects temperature and humidity data from ESP32 + DHT11, sends it via MQTT to a Flask backend, stores it in TDengine, and pushes real-time updates to a Vue frontend via Socket.IO.
+
+<img src="images/display1.png" alt="示例展示" width="600" />
 
 ### Tech Stack
 - Hardware: ESP32 + DHT11
